@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:5d61320ac838dcc40888adb669102b53$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="finalsprite.png" width="256" height="256">
+    <sprite n="walk11.png" x="205" y="52" w="50" h="50"/>
+    <sprite n="walk12.png" x="154" y="52" w="50" h="50"/>
+    <sprite n="walk13.png" x="103" y="52" w="50" h="50"/>
+    <sprite n="walk14.png" x="52" y="205" w="50" h="50"/>
+    <sprite n="walk21.png" x="52" y="154" w="50" h="50"/>
+    <sprite n="walk22.png" x="52" y="103" w="50" h="50"/>
+    <sprite n="walk23.png" x="52" y="52" w="50" h="50"/>
+    <sprite n="walk24.png" x="205" y="1" w="50" h="50"/>
+    <sprite n="walk31.png" x="154" y="1" w="50" h="50"/>
+    <sprite n="walk32.png" x="103" y="1" w="50" h="50"/>
+    <sprite n="walk33.png" x="52" y="1" w="50" h="50"/>
+    <sprite n="walk34.png" x="1" y="205" w="50" h="50"/>
+    <sprite n="walk41.png" x="1" y="154" w="50" h="50"/>
+    <sprite n="walk42.png" x="1" y="103" w="50" h="50"/>
+    <sprite n="walk43.png" x="1" y="52" w="50" h="50"/>
+    <sprite n="walk44.png" x="1" y="1" w="50" h="50"/>
+</TextureAtlas>

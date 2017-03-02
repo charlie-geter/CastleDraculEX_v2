@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: de8f04bafe42ef74d904f04cc4bd3baa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - skin: {instanceID: 0}
+  - draculex: {fileID: 2800000, guid: c36cf38523f76c04f85f831e62ec505d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
